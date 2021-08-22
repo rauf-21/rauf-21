@@ -6,7 +6,7 @@
 
 ### 📈 My Github Stats: 
 
-<p>
+<div style="display: flex; flex-direction: row; flex-grow=1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rauf-21&show_icons=true&theme=dark&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauf-21&layout=compact&theme=dark&hide_border=true&count_private=true" />
-</p>
+</div>
